@@ -141,6 +141,10 @@
         "rights": {
           "type": "string",
           "description": "A statement that concerns all rights not addressed by the license such as a copyright statement."
+        },
+        "dataCollectionTool": {
+          "type": "string",
+          "description": "A text description of the tools used to produce this dataset."
         }
       }
     },
