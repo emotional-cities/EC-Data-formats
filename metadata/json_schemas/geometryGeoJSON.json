@@ -1,0 +1,25 @@
+{
+  "oneOf": [
+    {
+      "$ref": "pointGeoJSON.json"
+    },
+    {
+      "$ref": "multipointGeoJSON.json"
+    },
+    {
+      "$ref": "linestringGeoJSON.json"
+    },
+    {
+      "$ref": "multilinestringGeoJSON.json"
+    },
+    {
+      "$ref": "polygonGeoJSON.json"
+    },
+    {
+      "$ref": "multipolygonGeoJSON.json"
+    },
+    {
+      "$ref": "geometrycollectionGeoJSON.json"
+    }
+  ]
+}

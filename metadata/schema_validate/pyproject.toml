@@ -3,7 +3,7 @@ name = "schema-validate"
 version = "0.1.0"
 description = ""
 authors = ["Antonio Cerciello <antonio.cerciello@gmail.com>"]
-readme = "README.md"
+readme = "../metadata.md"
 packages = [{include = "schema_validate"}]
 
 [tool.poetry.dependencies]

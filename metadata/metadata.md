@@ -12,7 +12,7 @@ The schema is an extension of the [OGC API Records Metadata Schema](https://gith
 You can use the code inside the Jupyter Notebook to validate JSON metadata.
 
 ```
-cd metadata/notebook/
+cd metadata/schema_validate/
 poetry shell
 poetry run jupyter notebook
 ```
